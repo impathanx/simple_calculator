@@ -1,5 +1,7 @@
 //coded by- yasir Ali khan coded for-codsoft internship
 
+#include<iostream>
+
 using namespace std;
 
 int main(){
